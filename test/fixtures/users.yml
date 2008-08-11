@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  update_by_chronos_at: 2008-08-11 12:01:14
+
+two:
+  name: MyString
+  update_by_chronos_at: 2008-08-11 12:01:14

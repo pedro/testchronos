@@ -1,0 +1,3 @@
+test:
+  schedule: in one hour
+  task: chronos
